@@ -65,7 +65,7 @@ export default function App() {
   return (
     <div className="shell">
       <div className="masthead">
-        <h1>Summaries</h1>
+        <h1>Notion TaskHub</h1>
         <span className="count">{summaries.length} saved</span>
       </div>
       <p className="subhead">
